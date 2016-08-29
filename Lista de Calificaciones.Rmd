@@ -1,0 +1,23 @@
+---
+title: "Lista de Calificaciones"
+author: "Mariela Raviela Molina"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+###Otoño 2015
+ * Programación Actuarial I    --    9
+ * Introducción a la Profesión Actuarial   --    7
+ * Conceptos de Cálculo    --    10
+ * Matemáticas Básicas   --    9
+ * Problemas de Matemáticas Básicas    --    9
+ * Desarrollo de Habilidades del Pensamiento Complejo    --    7
+ 
+###Primavera 2016
+ * Programación Actuarial II   --    10
+ * Microeconomía   --    8
+ * Teoría del Interés I    --    7
+ * Cálculo Diferencial   --    7
+ * Geometría Analítica   --    10
+ * Teoría de Ecuaciones    --    9
+
